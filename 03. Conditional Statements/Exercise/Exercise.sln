@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpeedInfo", "03.SpeedInf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ThreeBrothers", "06.ThreeBrothers\06.ThreeBrothers.csproj", "{92060A3C-74BE-4F8F-B59C-FC8777888C52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Choreography", "07.Choreography\07.Choreography.csproj", "{4980F5F8-79C2-40FC-A6B6-5B6BB39F5A3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{92060A3C-74BE-4F8F-B59C-FC8777888C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92060A3C-74BE-4F8F-B59C-FC8777888C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92060A3C-74BE-4F8F-B59C-FC8777888C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4980F5F8-79C2-40FC-A6B6-5B6BB39F5A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4980F5F8-79C2-40FC-A6B6-5B6BB39F5A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4980F5F8-79C2-40FC-A6B6-5B6BB39F5A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4980F5F8-79C2-40FC-A6B6-5B6BB39F5A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
