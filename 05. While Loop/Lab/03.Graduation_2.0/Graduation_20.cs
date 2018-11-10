@@ -32,7 +32,7 @@ namespace _03.Graduation_2._0
             else
             {
                 double average = sum / 12;
-                Console.WriteLine($"{name} graduated. Average grade: {average}");
+                Console.WriteLine($"{name} graduated. Average grade: {average:f2}");
             }
         }
     }
