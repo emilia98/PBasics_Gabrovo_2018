@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.USDToBGN", "02.USDToBGN\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AlcoholMarket", "07.AlcoholMarket\07.AlcoholMarket.csproj", "{C19A6AED-3A35-4207-99FC-7FFF952A89BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TailoringWorkshop", "04.TailoringWorkshop\04.TailoringWorkshop.csproj", "{AA54A0EC-E606-457C-B604-03759AFF29A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.2DRectangleArea", "01.2DRectangleArea\01.2DRectangleArea.csproj", "{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C19A6AED-3A35-4207-99FC-7FFF952A89BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C19A6AED-3A35-4207-99FC-7FFF952A89BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C19A6AED-3A35-4207-99FC-7FFF952A89BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA54A0EC-E606-457C-B604-03759AFF29A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA54A0EC-E606-457C-B604-03759AFF29A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA54A0EC-E606-457C-B604-03759AFF29A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA54A0EC-E606-457C-B604-03759AFF29A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
