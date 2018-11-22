@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TailoringWorkshop", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.2DRectangleArea", "01.2DRectangleArea\01.2DRectangleArea.csproj", "{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CurrencyConverter", "03.CurrencyConverter\03.CurrencyConverter.csproj", "{31C4DA8D-65BE-47DB-8A6B-3F99A342777E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CharityCampaign", "06.CharityCampaign\06.CharityCampaign.csproj", "{C8693148-3AC8-4F88-871B-9D42D8BA8D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB8B0FB-CB50-499F-86BA-E805FD9DB07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C4DA8D-65BE-47DB-8A6B-3F99A342777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C4DA8D-65BE-47DB-8A6B-3F99A342777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C4DA8D-65BE-47DB-8A6B-3F99A342777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C4DA8D-65BE-47DB-8A6B-3F99A342777E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8693148-3AC8-4F88-871B-9D42D8BA8D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8693148-3AC8-4F88-871B-9D42D8BA8D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8693148-3AC8-4F88-871B-9D42D8BA8D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8693148-3AC8-4F88-871B-9D42D8BA8D46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
