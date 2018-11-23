@@ -11,4 +11,4 @@
 |04. Nested Conditionals|[Demo](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/04.%20Nested%20Conditionals/Demo)|Lab|Exercise|
 |05. While Loop|[Demo](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/05.%20While%20Loop/Demo)|[Lab](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/05.%20While%20Loop/Lab)|Exercise|
 |06. For Loop|[Demo](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/06.%20For%20Loop/Demo)|[Lab](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/06.%20For%20Loop/Lab)|Exercise|
-|07. Nested Loops|Demo|Lab|Exercise|
+|07. Nested Loops|[Demo](https://github.com/emilia98/PBasics_Gabrovo_2018/tree/master/07.%20Nested%20Loops/Demo)|Lab|Exercise|
