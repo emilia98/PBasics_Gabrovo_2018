@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7129AAEB-A1D8-415C-8B5A-A4C999E848DF}</ProjectGuid>
+    <ProjectGuid>{9EFCED87-DC11-4156-87F1-7116224781EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.TicketCombination</RootNamespace>
-    <AssemblyName>06.TicketCombination</AssemblyName>
+    <RootNamespace>_03.EvenPowersOf2</RootNamespace>
+    <AssemblyName>03.EvenPowersOf2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TicketCombination.cs" />
+    <Compile Include="EvenPowersOf2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

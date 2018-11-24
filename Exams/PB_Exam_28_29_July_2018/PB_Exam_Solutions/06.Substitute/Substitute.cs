@@ -2,9 +2,9 @@
 
 namespace _06.Substitute
 {
-    class Program
+    class Substitute
     {
-        static void Main(string[] args)
+        static void Main()
         {
             // K - началото на интервала за първото число от първия номер – цифра в интервала [0..8]
             int k = int.Parse(Console.ReadLine());
@@ -27,7 +27,7 @@ namespace _06.Substitute
                         {
                             // {i1}{i2} - {i3}{i4}
                             // 79 - 89
-                            // първото число от номера трябва да бъде четно, а второто нечетно. 
+                            // първата цифра от номера трябва да бъде четна, а второто нечетно. 
 
                             if ((i1 % 2 == 0 && i2 % 2 == 1) &&
                                 (i3 % 2 == 0 && i4 % 2 == 1))
@@ -77,13 +77,6 @@ namespace _06.Substitute
                     break;
                 }*/
             }
-
-            // Console.WriteLine("HEHEHEHEHE");
-            // for(int i1 = )
-            // [k-8] -> 1
-            // [l-0]
-            // [m-8]
-            // [n-0]
         }
     }
 }

@@ -2,14 +2,14 @@
 
 namespace _06.TicketCombination
 {
-    class Program
+    class TicketCombination
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int combinationNumber = int.Parse(Console.ReadLine());
-
+            
+            // Генерирани комбинации
             int generatedCombinations = 0;
-            // string 
 
             for(char i1 = 'B'; i1 <= 'L'; i1++)
             {

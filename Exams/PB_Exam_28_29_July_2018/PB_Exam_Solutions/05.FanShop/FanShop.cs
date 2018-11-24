@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05.FanShop
 {
-    class Program
+    class FanShop
     {
-        static void Main(string[] args)
+        static void Main()
         {
             // Бюджет
             int budget = int.Parse(Console.ReadLine());
             // n
             int n = int.Parse(Console.ReadLine());
 
+            // Сумата, която трябва да бъде заплатена
             int totalSum = 0;
+
             // Въртим цикъл, който ще въвежда N реда
             for(int lineCounter = 1; lineCounter <= n; lineCounter++)
             {
